@@ -16,20 +16,20 @@ Link: [```https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8
 
 
 ### Node.js:
-    [```https://nodejs.org/en/``](https://nodejs.org/en/)
+[```https://nodejs.org/en/```](https://nodejs.org/en/)
 ### Python: 
-    [```https://www.python.org/downloads/``](https://www.python.org/downloads/)
+[```https://www.python.org/downloads/```](https://www.python.org/downloads/)
 ### FFmpeg:
-    [```https://ffmpeg.org/download.html``](https://ffmpeg.org/download.html)
+[```https://ffmpeg.org/download.html```](https://ffmpeg.org/download.html)
 ### Visual Studio CODE:
-    [```https://code.visualstudio.com``](https://code.visualstudio.com)
+[```https://code.visualstudio.com```](https://code.visualstudio.com)
 
 #### Discord.js:
-    [```https://www.npmjs.com/package/discord.js``](https://www.npmjs.com/package/discord.js)
+[```https://www.npmjs.com/package/discord.js```](https://www.npmjs.com/package/discord.js)
 #### Discord Developer Portal:
-    [```https://discord.com/developers/application``](https://discord.com/developers/application)
+[```https://discord.com/developers/application```](https://discord.com/developers/application)
 #### Discord Bot Invite Link generator:
-    [```https://discordapi.com/permissions.html``](https://discordapi.com/permissions.html)
+[```https://discordapi.com/permissions.html```](https://discordapi.com/permissions.html)
 ## SUPPORT ME
 
 You can always Support me by inviting one of my **own Discord Bots**
