@@ -6,12 +6,12 @@
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fS6qBSm)
 
 In dieser VIDEO SERIE Erfährst du wie du deinen EIGENEN DISCORD BOT PROGRAMMIERST!
-Link: https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye
+Link: ```https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye```
 
 ## Other important tutorials:
- - Install nodejs: https://www.youtube.com/watch?v=YsDkgpARBT0
- - Install python: https://www.youtube.com/watch?v=7LdRnyuIHj4
- - Install ffmpeg: https://www.youtube.com/watch?v=x5PfJoVNtzc
+ - Install nodejs: ```https://www.youtube.com/watch?v=YsDkgpARBT0```
+ - Install python: ```https://www.youtube.com/watch?v=7LdRnyuIHj4```
+ - Install ffmpeg: ```https://www.youtube.com/watch?v=x5PfJoVNtzc```
 
 
 ### Node.js:
