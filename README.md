@@ -6,6 +6,7 @@
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fS6qBSm)
 
 In dieser VIDEO SERIE Erfährst du wie du deinen EIGENEN DISCORD BOT PROGRAMMIERST!
+
 Link: ```https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye```
 
 ## Other important tutorials:
