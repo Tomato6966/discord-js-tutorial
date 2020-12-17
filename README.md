@@ -7,29 +7,29 @@
 
 In dieser VIDEO SERIE Erfährst du wie du deinen EIGENEN DISCORD BOT PROGRAMMIERST!
 
-Link: ```[https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye](https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye)```
+Link: [```https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye```](https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye)
 
 ## Other important tutorials:
- - Install nodejs: ```https://www.youtube.com/watch?v=YsDkgpARBT0```
- - Install python: ```https://www.youtube.com/watch?v=7LdRnyuIHj4```
- - Install ffmpeg: ```https://www.youtube.com/watch?v=x5PfJoVNtzc```
+ - Install nodejs: [```https://www.youtube.com/watch?v=YsDkgpARBT0```](https://www.youtube.com/watch?v=YsDkgpARBT0)
+ - Install python: [```https://www.youtube.com/watch?v=7LdRnyuIHj4```](https://www.youtube.com/watch?v=7LdRnyuIHj4)
+ - Install ffmpeg: [```https://www.youtube.com/watch?v=x5PfJoVNtzc```](https://www.youtube.com/watch?v=x5PfJoVNtzc)
 
 
 ### Node.js:
-    https://nodejs.org/en/
+    [```https://nodejs.org/en/``](https://nodejs.org/en/)
 ### Python: 
-    https://www.python.org/downloads/
+    [```https://www.python.org/downloads/``](https://www.python.org/downloads/)
 ### FFmpeg:
-    https://ffmpeg.org/download.html
+    [```https://ffmpeg.org/download.html``](https://ffmpeg.org/download.html)
 ### Visual Studio CODE:
-    https://code.visualstudio.com
+    [```https://code.visualstudio.com``](https://code.visualstudio.com)
 
 #### Discord.js:
-    https://www.npmjs.com/package/discord.js
+    [```https://www.npmjs.com/package/discord.js``](https://www.npmjs.com/package/discord.js)
 #### Discord Developer Portal:
-    https://discord.com/developers/application
+    [```https://discord.com/developers/application``](https://discord.com/developers/application)
 #### Discord Bot Invite Link generator:
-    https://discordapi.com/permissions.html
+    [```https://discordapi.com/permissions.html``](https://discordapi.com/permissions.html)
 ## SUPPORT ME
 
 You can always Support me by inviting one of my **own Discord Bots**
