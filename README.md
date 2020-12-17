@@ -7,7 +7,7 @@
 
 In dieser VIDEO SERIE Erfährst du wie du deinen EIGENEN DISCORD BOT PROGRAMMIERST!
 
-Link: ```https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye```
+Link: ```[https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye](https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye)```
 
 ## Other important tutorials:
  - Install nodejs: ```https://www.youtube.com/watch?v=YsDkgpARBT0```
