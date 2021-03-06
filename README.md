@@ -5,6 +5,8 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Tomato6966/Ask-Me-Anything)
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fS6qBSm)
 
+## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+
 In dieser VIDEO SERIE Erfährst du wie du deinen EIGENEN DISCORD BOT PROGRAMMIERST!
 
 Link: [```https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye```](https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8ye)
@@ -31,8 +33,17 @@ Link: [```https://www.youtube.com/playlist?list=PLbLeA7W1w2T7bluFjJ0aWXM5zI_EcB8
 #### Discord Bot Invite Link generator:
 [```https://discordapi.com/permissions.html```](https://discordapi.com/permissions.html)
 
+# SUPPORT ME AND MILRATO DEVELOPMENT
 
-## BEST HOSTING | Bittmax.de
+You can always Support me by inviting one of my **own Discord Bots**
+
+[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
+[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
+
+## Sponsors
+
+### BEST HOSTING | Bittmax.de
 BITTMAX Quality is their solution.
 Bittmax is our first and probably most important sponsor!
 
@@ -53,7 +64,7 @@ Bittmax is our first and probably most important sponsor!
 GET **5%** OFF EVERYTHING FOR EVER!
 Code: **`x10`**
 
-## MC-Host24.de
+### MC-Host24.de
 MC-Host24.de is selling the Best Digital Hosting Services ever!
 Like For games..
 
@@ -70,19 +81,3 @@ Like For games..
 
 **Website:**
 [mc-host24.de](https://mc-host24.de/user/affiliate/3121])
-
-
-## SUPPORT ME
-
-You can always Support me by inviting one of my **own Discord Bots**
-
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.eu)
-
-[OTHER BOTS](https://bots.musicium.eu)
-
-[| fork my repository  |](https://github.com/user/repository/fork)
-[watch this repo  |](https://github.com/user/repository/subscription)
-[create issue |](https://github.com/user/repository/issues/new)
-
-*Both bots are still in Development, and will always be in development, this means always uptodate and always online and always improving!*
